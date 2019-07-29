@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Muslim Kids</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="action_favorit">Favorites</string>
+    <string name="nusa_dan_rara">Nusa dan Rara</string>
+    <string name="omar_dan_hana">Omar dan Hana</string>
+    <string name="video_pilihan_editor">Video Pilihan Editor</string>
+    <string name="video_lainnya">Video Lainnya</string>
+    <string name="general">General</string>
+    <string name="show_notifications">Show notifications</string>
+    <string name="other">Other</string>
+    <string name="information_about_our_aplication">Information about our aplication</string>
+    <string name="yes_no">Yes/No</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="help_other_users_enjoy_this_application">Help other users enjoy this application</string>
+    <string name="trash">Trash</string>
+    <string name="about">About</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="terima_kasih_sudah_memakai_aplikasi_ini">Terima kasih sudah memakai aplikasi ini .</string>
+    <string name="by_skydev_pondokit">By: Skydev@pondokit</string>
+    <string name="ok">OK</string>
+    <string name="videos">videos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
